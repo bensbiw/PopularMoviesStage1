@@ -13,8 +13,6 @@ class Utilities {
     public static final String BASE_IMAGE_PATH = "http://image.tmdb.org/t/p/w185/";
 
 
-//    https://api.themoviedb.org/3/movie/popular?api_key=efeeb6f76b2d10a9081ddcfbcfb9466e&language=en-US
-    //https://api.themoviedb.org/3/movie/118340/videos?api_key=efeeb6f76b2d10a9081ddcfbcfb9466e&language=en-US
 
     public static JSONObject getJsonObject(String string) throws JSONException{
 
